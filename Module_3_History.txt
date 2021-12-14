@@ -1,0 +1,20 @@
+    1  cd documents/school
+    2  cd challenges
+    3  cd module_3_challenge
+    4  cd Module_3_Challenge
+    5  git status
+    6  git add .
+    7  git commit -m "Changed some code"
+    8  git push origin main
+    9  git add .
+   10  git status
+   11  git commit -m "Added a lot of coding. Almost complete!"
+   12  git push origin main
+   13  git add .
+   14  git commit -m "Fixed some typos"
+   15  git push origin main
+   16  git status
+   17  git add .
+   18  git commit -m "Fixed another typo"
+   19  git push origin main
+   20  history 50 > Module_3_History.txt
