@@ -20,7 +20,7 @@ Next, make sure pandas and Jupyter lab are installed as well by entering the fol
 
 # Usage
 
-In order to view the analysis, navigate to the `crypto_arbitrage.ipynb` notebook in the repository directory. If you cannot find the file, simply click [here] (https://github.com/MaxAcheson/Module_3_Challenge/blob/main/Starter_Code/crypto_arbitrage.ipynb) instead. If you would like to interact with the live version of the analysis, you may navigate to your cloned version of the repository in your terminal and run `jupyter lab`.
+In order to view the analysis, navigate to the `crypto_arbitrage.ipynb` notebook in the repository directory. If you cannot find the file, simply click [here](https://github.com/MaxAcheson/Module_3_Challenge/blob/main/Starter_Code/crypto_arbitrage.ipynb) instead. If you would like to interact with the live version of the analysis, you may navigate to your cloned version of the repository in your terminal and run `jupyter lab`.
 
 # Contributors
 
