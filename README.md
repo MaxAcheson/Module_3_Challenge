@@ -1,6 +1,6 @@
 # Bitcoin Arbitrage Analysis
 
-This project examines the price of Bitcoin (BTC) on two different cryptocurrency exchanges, [Bitstamp] (https://www.bitstamp.net/) and [Coinbase] (https://www.coinbase.com/), for the first quarter of 2018. Three days from this time period have been selected and closely investigated for arbitrage profit opportunities. The results of this analysis serve as an examination of the overall viability of Bitcoin cross-exchange arbitrage trading.
+This project examines the price of Bitcoin (BTC) on two different cryptocurrency exchanges, [Bitstamp](https://www.bitstamp.net/) and [Coinbase](https://www.coinbase.com/), for the first quarter of 2018. Three days from this time period have been selected and closely investigated for arbitrage profit opportunities. The results of this analysis serve as an examination of the overall viability of Bitcoin cross-exchange arbitrage trading.
 
 ## Technologies
 
